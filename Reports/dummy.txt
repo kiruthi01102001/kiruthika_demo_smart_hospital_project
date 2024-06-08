@@ -1,2 +1,3 @@
 to understand commits behind
  to understand agin
+to commit my changes
